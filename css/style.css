@@ -1212,3 +1212,7 @@ ul.portfolio-image li .desc {
 .row{
   text-align: center;
 }
+.center-block{
+  width: 150px;
+  height: 120px;
+}
