@@ -1,2 +1,2 @@
 # gzy.site
-学习键gitpage
+学习搭建gitpage
