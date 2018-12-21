@@ -67,7 +67,7 @@
         }
         inits();
         $(".typed").typed({
-            strings: ["My Name is M.Reza", "I'm a Web Designer", "Love Simplicity"],
+            strings: ["My Name is GZY", "I'm a Product Manager", "Love Simplicity"],
             typeSpeed: 100,
             backDelay: 900,
             loop: true
